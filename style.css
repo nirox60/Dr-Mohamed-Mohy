@@ -1,0 +1,44 @@
+body {
+   background-image: url("images/pexels-gabby-k-7794441.jpg");
+   background-color: #cccccc;
+   background-size: cover;
+   background-repeat: no-repeat;
+   min-height: 100vh;
+}
+#mainDiv {
+   color: rgba(255, 255, 255, 0.903);
+   width: 90%;
+   max-width: 600px;
+   margin: auto;
+   border: 5px solid rgb(255, 255, 255);
+   padding: 20px;
+   border-radius: 40px;
+   text-align: center;
+   margin-top: 200px;
+   background-image: url("images/pexels-abdghat-1631677.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-family: 'Times New Roman', Times, serif;
+}
+#imageDiv {
+   width: 150px;
+   height: 150px;
+   border: 5px solid rgba(255, 255, 255, 0.903) ;
+   border-radius: 50%;
+   left: 0px;
+   margin-top: -13vh;;
+}
+#linkDiv {
+   font-size: 22px;
+   color: wheat;
+   font-weight: 900; 
+   font-family: 'Times New Roman', Times, serif;   
+}
+#linkDiv:hover {
+   color: wheat;
+}
+li {
+   font-size: 22px;
+   font-weight: 900;
+   font-family: 'Times New Roman', Times, serif;
+}
